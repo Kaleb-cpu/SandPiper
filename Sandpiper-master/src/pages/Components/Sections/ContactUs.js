@@ -31,9 +31,9 @@ export default function ContactUs(){
                 <li className="mb-2 font-a33">
                     Calgary, Alberta T2Z 0N3
                 </li>
-                <li className="mb-2 font-a33">Phone: 825-437-3153</li>
+                <li className="mb-2 font-a33">Phone: 403-660-1720</li>
                 <li className="mb-2 font-a33">
-                    Email: info@sandpiper.ca
+                    Email: solutions.sandpiper@gmail.com
                 </li>
             </ul>
             
@@ -42,7 +42,14 @@ export default function ContactUs(){
                     <div class="col-4 text-center ">
                     </div>
                     <div>
-                        <img src="/media/linkedin.png" class="img-thumbnail ms-2" href="#" width="40em" height="40em" alt="linkedin"/>
+                        <a href="https://www.linkedin.com/in/sand-piper-147898294/"><img src="/media/linkedin.png" class="img-thumbnail ms-2"  
+                        width="40em" height="40em" alt="linkedin"/></a>
+
+<a href="https://www.facebook.com/profile.php?id=61551952056607"><img src="/media/facebook.png" class="img-thumbnail ms-2"  
+                        width="40em" height="40em" alt="linkedin"/></a>
+
+<a href="https://www.instagram.com/sandpiper.solutions/"><img src="/media/instagram.png" class="img-thumbnail ms-2"  
+                        width="40em" height="40em" alt="linkedin"/></a>
                     </div>
                     <div class="col-4 text-center">
                     </div>
